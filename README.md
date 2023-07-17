@@ -4,7 +4,7 @@
 
   <br/>
 
-  <h1><b>To_Do_List</b></h1>
+  <h1><b>Review_Todo</b></h1>
 
 </div>
 
@@ -30,11 +30,11 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 To_Do_List <a name="about-project"></a>
+# 📖 Review_Todo <a name="about-project"></a>
 
-"To_Do_List" is a tool that helps to organize your day. It simply lists the things that you need to do and allows you to mark them as complete
+"Review_Todo" is a tool that helps to organize your day. It simply lists the things that you need to do and allows you to mark them as complete
 
-*[To_Do_List]* is an HTML, Javascript, and CSS project
+*[Review_Todo]* is an HTML, Javascript, and CSS project
 
 ## 🛠 Built With <a name="built-with"></a>
 
